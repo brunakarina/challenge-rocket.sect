@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  background: #2F2E41;
+  font-family: 'JetBrains Mono', monospace;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.page {
+  width: 1092px;
+  margin: 0 auto;
+}
+
+main {
+  width: 1092px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 100px;
+  gap: 82px;
+  margin-bottom: 157px;
+}
+
+nav {
+  width: 1083px;
+  padding-top: 71px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  gap: 64px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li a:hover {
+  opacity: 1;
+  color: #00BFA6;
+}
+
+#footer a:hover {
+  opacity: 1;
+  color: #00BFA6;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  color: #FFFFFF;
+  margin-bottom: 59px;
+}
+
+h1 span {
+ color: #00BFA6;
+}
+
+section p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  width: 604px;
+  height: 168px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #C2C2C2;
+}
+
+section p span {
+  color: #00BFA6;
+  font-weight: bold;
+}
+
+.line {
+  width: 568px;
+  height: 0px;
+  border: 1px solid #00BFA6;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-container {
+  margin-left: auto;
+  margin-right: auto;
+  height: 28px;
+  margin-top: 27px;
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#padlock {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+
+
+
