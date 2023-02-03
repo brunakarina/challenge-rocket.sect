@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o desafio
 
->Recriar uma aplicação, a partir de um layout, para fortalecer alguns conceitos aprendidos nas aulas do Stage 02
+>Recriar uma aplicação, a partir de um layout pronto no figma, para fortalecer alguns conceitos aprendidos nas aulas do Stage 02
 
 ![preview](./images/preview.png)
 
